@@ -1,11 +1,6 @@
 # Air-Quality-Index-Forecasting-via-GA-KELM
 
-This project leverages a hybrid Genetic Algorithm (GA) and Kernel Extreme Learning Machine (KELM) model to accurately forecast Air Quality Index (AQI). The model is trained on real-world air quality datasets to predict AQI levels. GA is optimal feature selection and hyperparameter and KELM provides fast &amp; robust nonlinear regression performance.
-
-# 🌫️ Air Quality Index Forecasting via GA-KELM
-
-Forecast tomorrow’s air quality—today.
-This project combines the evolutionary power of Genetic Algorithms (GA) with the speed and precision of Kernel Extreme Learning Machines (KELM) to forecast the Air Quality Index (AQI) with high accuracy. Designed for researchers, data scientists, and environmental enthusiasts who want to stay one step ahead of pollution.
+Forecast tomorrow’s air quality—today. This project leverages a hybrid Genetic Algorithm (GA) and Kernel Extreme Learning Machine (KELM) model to accurately forecast Air Quality Index (AQI). The model is trained on real-world air quality datasets to predict AQI levels. GA is optimal feature selection and hyperparameter and KELM provides fast &amp; robust nonlinear regression performance.
 
 # 🚀 What is GA-KELM?
 
@@ -18,7 +13,9 @@ Together, they create a hybrid model that predicts air quality more efficiently 
 Air pollution affects health, productivity, and quality of life. Real-time and accurate AQI forecasting helps:
 
 1.🏙️ Smart cities plan better
+
 2.🏥 Hospitals prepare for respiratory risks
+
 3.🌿 Citizens make informed daily choices
 
 # 📦 Features
@@ -89,9 +86,6 @@ Add LSTM or hybrid models
 Deploy as a web service or mobile app
 
 # 📬 Contact
-Made with ❤️ by [Your Name]
-📧 your.email@example.com
-🌐 [yourwebsite.com]
+Made with ❤️ by G.Venkatesh
 
-# ⭐️ Star This Repo
-If this helped you, consider giving it a ⭐️. It fuels more innovation!
+📧 gvenkatesh9193@example.com
